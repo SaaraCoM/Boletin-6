@@ -1,0 +1,26 @@
+TEMAS = {
+    "oscuro": {
+        "fondo": "#0B1020",
+        "panel": "#121A2B",
+        "tarjeta": "#182235",
+        "borde": "#26324A",
+        "texto": "#F3F6FC",
+        "texto_sec": "#9FB0D0",
+        "acento": "#6D7CFF",
+        "exito": "#2ECC71",
+        "alerta": "#F5B041",
+        "error": "#FF5C7A",
+    },
+    "claro": {
+        "fondo": "#F6F8FC",
+        "panel": "#FFFFFF",
+        "tarjeta": "#FFFFFF",
+        "borde": "#E4EAF4",
+        "texto": "#1C2434",
+        "texto_sec": "#64748B",
+        "acento": "#4F46E5",
+        "exito": "#16A34A",
+        "alerta": "#D97706",
+        "error": "#DC2626",
+    },
+}
